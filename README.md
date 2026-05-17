@@ -99,15 +99,6 @@ OPENAI_API_KEY=your-key-here
 4. Run each cell and test the output.  
 5. Use the comments and markdown cells for learning guidance.  
 
----
-
-## 🗣️ What Learners Are Saying
-
-> ⭐⭐⭐⭐⭐ “This is the most practical course on AI agents I’ve taken.”  
-> ⭐⭐⭐⭐⭐ “Loved the real-world examples and hands-on notebooks.”  
-
----
-
 
 ---
 
